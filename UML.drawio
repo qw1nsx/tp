@@ -19,7 +19,7 @@
         <mxCell id="TBTGlxb769zPqR5EU0-j-10" value="+ auth(login: QString, password: QString, socket: QString): QByteArray&lt;div&gt;+ reg(login: QString, password: QString, email: QString): QByteArray&lt;/div&gt;&lt;div&gt;+ check_stat(socket: QString): QByteArray&lt;/div&gt;&lt;div&gt;+ check_stat_all(): QByteArray&lt;/div&gt;&lt;div&gt;+ out(login: QString): QByteArray&lt;/div&gt;&lt;div&gt;+ send_answ(task: QString, var: QString, answer: QString): QByteArray&lt;/div&gt;&lt;div&gt;+ Parsing(a: QString, socket: QString): QByteArray&lt;/div&gt;" style="html=1;whiteSpace=wrap;align=left;" vertex="1" parent="1">
           <mxGeometry x="360" y="30" width="390" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="TBTGlxb769zPqR5EU0-j-12" value="Db_sign" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="TBTGlxb769zPqR5EU0-j-12" value="Db_sing" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="10" y="180" width="330" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TBTGlxb769zPqR5EU0-j-13" value="- p_instance: MyDataBase*&lt;div&gt;- db: QSqlDatabase&lt;/div&gt;" style="html=1;whiteSpace=wrap;align=left;" vertex="1" parent="1">
